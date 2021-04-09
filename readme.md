@@ -3,11 +3,11 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Bryan jansen`
+* **Klas:** `vid-1b`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Favoriete dier:** `Hond`
+* **Startniveau:** `blauq`
 
 ## Concept
 
