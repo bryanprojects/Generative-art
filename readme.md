@@ -7,7 +7,7 @@
 * **Klas:** `vid-1b`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Hond`
-* **Startniveau:** `blauq`
+* **Startniveau:** `blauw`
 
 ## Concept
 
