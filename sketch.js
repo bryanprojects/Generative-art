@@ -53,4 +53,12 @@ function mouseClicked(){
 /* In deze function vind de interactie plaats. Wanneer de gebruiker op het doolhof drukt wordt er 
 20 bij de afstand opgeteld. De afstand is 80 en wordt door 1 mouseclick 100. */
 
+function keyPressed() {
+  if (keyCode === LEFT_ARROW) {
+    afstand = afstand - 20;
+      redraw();
+  }
+}
 
+/* in deze functie vind er interactie plaats. Wanneer de gebruiker op het linkerpijltje drukt, wordt het 
+doolhof weer moeilijker en krijgt het meer lijnen. */
